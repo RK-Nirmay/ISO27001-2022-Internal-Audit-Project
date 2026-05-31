@@ -1,10 +1,10 @@
-# 🏢 Company Profile — Stark Industries Inc.
+# Company Profile - Stark Industries Inc.
 
 > **Document:** Company Profile
-> **Stage:** 01 — Define Audit Scope & Objectives
+> **Stage:** 01 - Define Audit Scope & Objectives
 > **Project:** ISO/IEC 27001:2022 Internal Audit
 > **Status:** Baseline reference document
-> **Prepared by:** Nirmay Soni — Cyber Security GRC Analyst
+> **Prepared by:** Nirmay Soni, Cyber Security GRC Analyst
 
 > [!NOTE]
 > Fictional, educational profile created for an ISO/IEC 27001:2022 internal-audit exercise.
@@ -18,8 +18,8 @@
 |---|---|
 | **Legal name** | Stark Industries Inc. |
 | **Headquarters** | New York City, New York, USA |
-| **Industry** | Software — Software as a Service (SaaS) |
-| **Company size** | Small business (≈ 6 core staff) |
+| **Industry** | Software (Software as a Service, SaaS) |
+| **Company size** | Small business (about 6 core staff) |
 | **Flagship product** | A SaaS marketing-automation platform for small businesses |
 | **Hosting model** | Fully cloud-hosted on Amazon Web Services (AWS) |
 | **Operating market** | United States, serving small-business clients |
@@ -31,7 +31,7 @@
 
 Stark Industries Inc. is a small, US-based software company that develops and operates a
 **cloud-based marketing-automation platform** designed for small businesses. The platform helps
-clients manage marketing campaigns, automate customer outreach, and track engagement — and in doing
+clients manage marketing campaigns, automate customer outreach, and track engagement, and in doing
 so it processes and stores customer and end-user data on behalf of those clients.
 
 The entire product is delivered as a **Software-as-a-Service (SaaS)** offering hosted on **Amazon Web
@@ -45,7 +45,7 @@ Services**, meaning the company's value, reputation, and customer trust are tigh
 The decision to build an ISMS and pursue ISO 27001 certification is **commercially driven**:
 
 > **Prospective clients increasingly require ISO 27001 certification as a precondition for
-> procurement.** Without it, Stark Industries is excluded from sales opportunities — particularly
+> procurement.** Without it, Stark Industries is excluded from sales opportunities, particularly
 > with larger or more security-conscious customers.
 
 Certification is therefore positioned as a **growth enabler** (unlocking new sales and improving
@@ -108,7 +108,7 @@ customer trust) as much as a security and compliance objective.
 ### Internal Issues
 - Small team with overlapping roles and limited dedicated security resourcing.
 - Maturing (early-stage) security documentation, policies, and processes.
-- Rapid product development cycles that must integrate security ("secure by design").
+- Rapid product development cycles that must integrate security (secure by design).
 - Need to formalize governance, risk management, and evidence for certification.
 
 ---
@@ -141,7 +141,7 @@ customer trust) as much as a security and compliance objective.
 
 | Field | Detail |
 |---|---|
-| **Document title** | Company Profile — Stark Industries Inc. |
+| **Document title** | Company Profile - Stark Industries Inc. |
 | **Version** | 1.0 |
 | **Author** | Nirmay Soni (Cyber Security GRC Analyst) |
 | **Reviewed by** | Happy Hogan (Information Security Manager) |
