@@ -8,34 +8,34 @@ the result.
 The results recorded here reflect the conducted audit and are consistent across every later stage
 (findings, report, and corrective actions).
 
-## Contents
+## Contents (this folder)
 
 | File | Purpose |
 |---|---|
 | `ISO27001_Clause_Audit_Checklist.xlsx` | Management-clause checklist with one tab per clause (Clause 4 to Clause 10). Covers all 30 mandatory requirements with audit question, evidence, auditee, result, and notes. |
 
-## How the control-level assessment is recorded
+## Related records (maintained in Supporting_Documents)
 
 The Annex A control assessment and the risk-treatment verification are recorded directly in the
-organisation's own records, rather than in separate checklist files:
+organisation's own records rather than duplicated into separate checklist files. These are the
+auditee records the auditor assessed during this stage:
 
-- **Statement of Applicability** - the applicability (in scope / not applicable) and justification
-  for all 93 Annex A controls are maintained in the SoA workbook
-  (`Supporting_Documents/Statement_of_Applicability`).
-- **Risk treatment** - the selected controls, residual risk, owner, and status for each risk are
-  maintained in the risk assessment workbook (`Supporting_Documents/Risk_Management`).
-- **Control evidence** - implementation status and evidence for each control are maintained in the
-  Control Evidence Tracker (`Supporting_Documents`).
+| Record | Location | What it provides |
+|---|---|---|
+| `Stark_Industries_Assets_Risk_Assessment_SoA.xlsx` | `Supporting_Documents/Statement_of_Applicability` | One combined workbook with four tabs: Asset Register, Risk Assessment, SOA, and Legend. The SOA tab gives applicability and justification for all 93 Annex A controls; the Risk Assessment tab gives the risk treatment (controls, residual risk, owner, status). |
+| `Stark_Industries_Control_Evidence_Tracker.xlsx` | `Supporting_Documents` | Implementation status and evidence reference for each control. |
 
 This keeps a single source of truth: the auditor assesses the organisation's actual SoA, risk, and
-evidence records instead of duplicating them into separate checklist files.
+evidence records instead of duplicating them.
 
 ## Audit result summary
 
 - Clause checklist: conforming across Clauses 4 to 10, with one Minor nonconformity at Clause 4.2
   (legal and regulatory requirements not formally identified).
-- Annex A controls: the large majority conforming; a small number of findings on segregation of
-  duties, access-rights review, single-cloud dependency, and training-completion tracking.
+- Annex A controls: 83 applicable and 10 not applicable (physical/data-centre controls delivered by
+  AWS under the shared-responsibility model). The large majority conforming, with findings on
+  segregation of duties, access-rights review, single-cloud dependency, and training-completion
+  tracking.
 
 Findings are formalised in Stage 06 (Identify Findings).
 
