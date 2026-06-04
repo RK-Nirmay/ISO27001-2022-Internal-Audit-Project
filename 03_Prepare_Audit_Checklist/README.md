@@ -8,25 +8,17 @@ the result.
 The results recorded here reflect the conducted audit and are consistent across every later stage
 (findings, report, and corrective actions).
 
-## Contents (this folder)
+## Contents
 
 | File | Purpose |
 |---|---|
 | `ISO27001_Clause_Audit_Checklist.xlsx` | Management-clause checklist with one tab per clause (Clause 4 to Clause 10). Covers all 30 mandatory requirements with audit question, evidence, auditee, result, and notes. |
+| `Stark_Industries_Assets_Risk_Assessment_SoA.xlsx` | Combined workbook with four tabs: Asset Register, Risk Assessment, SOA, and Legend. The SOA tab gives applicability and justification for all 93 Annex A controls; the Risk Assessment tab gives the risk treatment (selected controls, residual risk, owner, status). Serves as the control-level and risk-treatment checklist for this stage. |
+| `Stark_Industries_Control_Evidence_Tracker.xlsx` | Implementation status and evidence reference for each control, used to confirm controls are operating. |
 
-## Related records (maintained in Supporting_Documents)
-
-The Annex A control assessment and the risk-treatment verification are recorded directly in the
-organisation's own records rather than duplicated into separate checklist files. These are the
-auditee records the auditor assessed during this stage:
-
-| Record | Location | What it provides |
-|---|---|---|
-| `Stark_Industries_Assets_Risk_Assessment_SoA.xlsx` | `Supporting_Documents/Statement_of_Applicability` | One combined workbook with four tabs: Asset Register, Risk Assessment, SOA, and Legend. The SOA tab gives applicability and justification for all 93 Annex A controls; the Risk Assessment tab gives the risk treatment (controls, residual risk, owner, status). |
-| `Stark_Industries_Control_Evidence_Tracker.xlsx` | `Supporting_Documents` | Implementation status and evidence reference for each control. |
-
-This keeps a single source of truth: the auditor assesses the organisation's actual SoA, risk, and
-evidence records instead of duplicating them.
+> The SoA workbook and Control Evidence Tracker are also maintained in `Supporting_Documents` as the
+> organisation's ISMS records. They are included here as well so the checklist stage is complete in
+> itself. The two copies are kept identical.
 
 ## Audit result summary
 
