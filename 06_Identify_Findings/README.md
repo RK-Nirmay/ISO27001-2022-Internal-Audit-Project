@@ -24,7 +24,7 @@ Three Minor nonconformities and two opportunities for improvement. No Major nonc
 | OFI-1 | Single-cloud (AWS) dependency with no documented exit plan | OFI | A.5.30 |
 | OFI-2 | Training-completion tracking is informal | OFI | A.6.3 |
 
-All findings are recorded with status Open. They are addressed through corrective action in Stage 09
+Findings were raised during the audit and subsequently addressed through corrective action in Stage 09. The three nonconformities are now verified and closed
 and reported in Stage 08.
 
 ## How findings are separated
